@@ -5,10 +5,10 @@
 
 ****
 
-1. Создаю и запускаю файл на сервере
+1. Открываю и запускаю файл на сервере
 2. Вношу всю необходимую информацию для старта
 
-![image](https://github.com/user-attachments/assets/25d6d5d1-c799-491b-8c29-a1771477e448)
+![image](https://github.com/user-attachments/assets/b5492c1a-d6e5-41d7-bbe1-dd86a6d678d6)
 
 3. Создаю диаграмму декомпозиции с четырьмя блоками.
 ![image](https://github.com/user-attachments/assets/81f73ca1-26ec-4b51-821d-42aa9d26e41b)
